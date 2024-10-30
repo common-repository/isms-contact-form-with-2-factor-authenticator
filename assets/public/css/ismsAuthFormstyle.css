@@ -1,0 +1,60 @@
+.isms-bg-success {
+    background-color: #28a745!important;
+    color:#fff;
+}
+.isms-authform-table-otp, .isms-authform-table-otp td  {
+    border: none !important;
+}
+
+
+.isms-bg-danger {
+    background-color: #dc3545!important;
+    color:#fff;
+}
+
+.isms-response-holder {
+    padding: 10px;
+    color: #fff;
+    margin-top: 10px;
+}
+
+#isms_reg_otp {
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+.iti {
+    width: 100%;
+     margin-top: 5px;
+    margin-bottom: 5px;
+}
+.isms-authform-table-otp {
+    overflow: unset !important
+}
+#isms_authform_mobilefield {
+     padding-left: 97px !important
+}
+.isms-authform label, .isms-authform input, .isms-authform textarea {
+	width: 100%;
+}
+
+.isms-authform input[type=checkbox], input[type=radio] {
+    width: 16px;
+	float:left;
+}
+label.checkandradiolabel {
+    width: 95%;
+    float: left;
+}
+.isms-authformm .form-group {
+    width: 100%;
+}
+.isms-authform tr#isms-otp-button-holder #isms-resend-otp {
+    margin-right: 4%!important;
+    width: 48%;
+}
+.isms-authform tr#isms-otp-button-holder #isms-verify-otp {
+	width: 48%;
+}
+
+
